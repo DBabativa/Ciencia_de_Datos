@@ -9,6 +9,7 @@ La ciencia de datos es un campo que usa tecnicas de aprendizaje automatico y la 
 *En esencia, el ML es una herramienta clave dentro de la IA y la Ciencia de Datos, este campo es el que aplica estas y otras herramientas para la comprension y la toma de desiciones basda en los datos*
 ## Diversos tipos de Ciencia de Datos.
 <img width="1170" height="674" alt="image" src="https://github.com/user-attachments/assets/d0069f67-91f8-4916-89d9-3627edc02cc3" />
+
 ## Tareas de Aprendizaje Automático
 
 ### Clasificación:
