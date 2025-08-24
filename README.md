@@ -1,7 +1,11 @@
 # Ciencia de Datos
 Material y Cuadernos de GoogleColab sobre la electiva Ciencia de datos
 ## ¿Qué es la Ciencia de Datos?
-La ciencia de datos es un campo que usa tecnicas de aprendizaje automatico y la estadistíca para analizar, interpretar y obtener conocimineto valioso a partir de los datos.
+La ciencia de datos es un campo que usa tecnicas de aprendizaje automatico y la estadistíca para analizar, interpretar y obtener conocimineto valioso a partir de los datos, este campo se encuentra en la intersección de tres areas principales, **Conocimiento de dominio** (Experiencia en el area especifica que se esta analizando), **Matemáticas y Estadistica** (Para el analisis y modelado de datos y **Ciencias de la computación**(Para el procesamiento y manejo de grandes volumnenes de datos.)
+La combinación de estas tres áreas permite la extracción de conocimiento e insights valiosos a partir de los datos.
+
+<img width="640" height="707" alt="image" src="https://github.com/user-attachments/assets/4cf4f840-cf08-400b-afe1-801207f12ca9" />
+
 ### Relacion entre la IA, el Machine Learning (ML) y la Ciencia de Datos.
 1. La IA busca crear sistemas capaces de realizar tareas que requieran inteligencia humana.
 2. Dentro de la IA, el *Aprendizaje automatico (Machine Learning - ML)* se enfoca en desarrollar algoritmos que permiten a las computadoras aprender de los datos sin ser programadas explicitamente.
