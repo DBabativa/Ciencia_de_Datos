@@ -14,6 +14,17 @@ La combinación de estas tres áreas permite la extracción de conocimiento e in
 ## Diversos tipos de Ciencia de Datos.
 <img width="1170" height="674" alt="image" src="https://github.com/user-attachments/assets/d0069f67-91f8-4916-89d9-3627edc02cc3" />
 
+## Tareas regulares de la Ciencia de Datos.
+1. Analisis de datos
+-¿Que porcentaje de ususarios vuelvena nuestro sitio?
+-¿Que productos se suelen comprar juntos?
+2. Modelado/Estadisticas
+-¿Cuantos coches vamos a vender el año que viene?
+-¿Que ciudad es mejor para abrir una nueva oficiona?
+3. Ingenieria/Prototipado
+-Producto para utilizar un modelo de prediccion
+-Visualizacion de analisis
+
 ## Tareas de Aprendizaje Automático
 
 ### Clasificación:
