@@ -45,3 +45,4 @@ Algoritmos: K-means, DBSCAN.
 Detecta relaciones entre elementos en transacciones.
 Ejemplos: Ventas cruzadas en minoristas.
 Algoritmos: FP Growth, Apriori.
+
