@@ -60,18 +60,18 @@ Detecta relaciones entre elementos en transacciones.
 ## Python para el Análisis de datos.
 ### Bibliotecas de python para ciencia de datos.
 Cajas de herramientas populares de python.
-* Numpy
+* **Numpy:**
   Introducen objetos para matrices y matrices multidimensionales, asi como funciones que permiten realizar operaciones matematicas y estadisticas avanzadas sobre esos objetos.
-* SciPy
+* **SciPy:**
   Colección de algoritmos para álgebra lineal, ecuaciones diferenciales, integracion numerica, optimizacion, estadistica y mas.
-* Pandas
+* **Pandas:**
   Agrega estruturas de datos y herramientas diseñadas para trabajar con datos similiares a tablas( Similares a Series y Data Frames en R) ademas proporciona herramientas para la manipulacion de   datos: Remodelacion, Fusión, Clasificación, Segmentacion, Agregacion, etc...
-* Scikit-Learn
+* **Scikit-Learn:**
   Propone algoritmos de aprendizaje automatico: Clasificación, Regresión, Agrupación, Validacion de modelos, etc...
 ### Bibliotecas de visualización.
-* matplotlib
+* **matplotlib:**
   Biblioteca de trazado 2D de python que produce cifras de calidad de publicacion en una variedad de formatos precisos con un conjunto de funcionalidades similares a las de MATLAB como: Graficos   de lineas, Diagramas de dispersión, Graficos de barras, Histogramas, Graficos circulares, etc
-* Seaborn
+* **Seaborn:**
   Basado en **matpolib** proporciona una interfaz de alto nivel para dibua¿jar graficas estadisticos atractivos
 
 ## El proceso de la Ciencia de datos
