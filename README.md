@@ -29,31 +29,49 @@ La combinación de estas tres áreas permite la extracción de conocimiento e in
 
 ### Clasificación:
 Predice a qué clase pertenece un dato.
-Ejemplos: Agrupar clientes, asignar votantes.
-Algoritmos comunes: Árboles de decisión, redes neuronales, K vecinos más cercanos.
+* Ejemplos: Agrupar clientes, asignar votantes.
+* Algoritmos comunes: Árboles de decisión, redes neuronales, K vecinos más cercanos.
 
 ### Regresión:
 Predice valores numéricos.
-Ejemplos: Tasa de desempleo, prima de seguros.
-Algoritmos: Regresión lineal, regresión logística.
+* Ejemplos: Tasa de desempleo, prima de seguros.
+* Algoritmos: Regresión lineal, regresión logística.
 
 ### Detección de anomalías:
 Identifica valores atípicos en un conjunto de datos.
-Ejemplos: Fraudes en tarjetas de crédito, detección de intrusiones.
-Algoritmos: Basado en distancia, densidad, LOF.
+* Ejemplos: Fraudes en tarjetas de crédito, detección de intrusiones.
+* Algoritmos: Basado en distancia, densidad, LOF.
 
 ### Series temporales:
 Predice valores futuros según datos históricos.
-Ejemplos: Previsión de ventas o producción.
-Algoritmos: Suavizado exponencial, ARIMA, regresión.
+* Ejemplos: Previsión de ventas o producción.
+* Algoritmos: Suavizado exponencial, ARIMA, regresión.
 
 ### Clustering:
 Encuentra grupos naturales de datos según sus propiedades.
-Ejemplos: Segmentación de clientes.
-Algoritmos: K-means, DBSCAN.
+* Ejemplos: Segmentación de clientes.
+* Algoritmos: K-means, DBSCAN.
 
 ### Análisis de asociación:
 Detecta relaciones entre elementos en transacciones.
-Ejemplos: Ventas cruzadas en minoristas.
-Algoritmos: FP Growth, Apriori.
+* Ejemplos: Ventas cruzadas en minoristas.
+* Algoritmos: FP Growth, Apriori.
+  
+## Python para el Análisis de datos.
+### Bibliotecas de python para ciencia de datos.
+Cajas de herramientas populares de python.
+* Numpy
+  Introducen objetos para matrices y matrices multidimensionales, asi como funciones que permiten realizar operaciones matematicas y estadisticas avanzadas sobre esos objetos.
+* SciPy
+  Colección de algoritmos para álgebra lineal, ecuaciones diferenciales, integracion numerica, optimizacion, estadistica y mas.
+* Pandas
+  Agrega estruturas de datos y herramientas diseñadas para trabajar con datos similiares a tablas( Similares a Series y Data Frames en R) ademas proporciona herramientas para la manipulacion de   datos: Remodelacion, Fusión, Clasificación, Segmentacion, Agregacion, etc...
+* Scikit-Learn
+  Propone algoritmos de aprendizaje automatico: Clasificación, Regresión, Agrupación, Validacion de modelos, etc...
+### Bibliotecas de visualización.
+* matplotlib
+  Biblioteca de trazado 2D de python que produce cifras de calidad de publicacion en una variedad de formatos precisos con un conjunto de funcionalidades similares a las de MATLAB como: Graficos   de lineas, Diagramas de dispersión, Graficos de barras, Histogramas, Graficos circulares, etc
+* Seaborn
+  Basado en **matpolib** proporciona una interfaz de alto nivel para dibua¿jar graficas estadisticos atractivos
 
+## El proceso de la Ciencia de datos
