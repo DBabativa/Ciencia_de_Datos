@@ -25,7 +25,7 @@ La combinación de estas tres áreas permite la extracción de conocimiento e in
 * Producto para utilizar un modelo de prediccion
 * Visualizacion de analisis
 
-## Tareas de Aprendizaje Automático
+## Tareas de Aprendizaje Automático (Mahine Learning).
 
 ### Clasificación:
 Predice a qué clase pertenece un dato.
