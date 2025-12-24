@@ -162,3 +162,64 @@ Se centra en el estudio de algortimos que aprender a realizar una tarea a partir
 ### Proceso del Aprendizaje Automático
 
 <img width="1254" height="438" alt="image" src="https://github.com/user-attachments/assets/4a954dcc-2c9a-4e15-a438-b7856e1dc1d0" />
+
+# Clasificación de Potabilidad del Agua con Random Forest
+
+Este proyecto implementa un modelo de **Machine Learning supervisado (Random Forest)** para predecir si una muestra de agua es **potable o no potable**, a partir de variables fisicoquímicas.
+
+El modelo fue entrenado y evaluado siguiendo el marco **CRISP-DM**, y posteriormente desplegado mediante una **API con FastAPI**, consumida desde una **interfaz web en HTML y CSS**.
+
+---
+
+##  Variables del modelo
+El sistema utiliza las siguientes características:
+
+- pH  
+- Dureza (Hardness)  
+- Sólidos disueltos (Solids)  
+- Cloraminas  
+- Sulfatos  
+- Conductividad  
+- Carbono orgánico  
+- Trihalometanos  
+- Turbidez  
+
+---
+
+##  Modelo utilizado
+Se seleccionó **Random Forest** debido a su mejor desempeño comparativo frente a otros modelos como:
+- Regresión Logística
+- KNN
+- Árbol de Decisión
+- SVM
+
+**Métricas del modelo:**
+- Accuracy ≈ 0.69
+- Buen equilibrio entre precisión y capacidad de generalización
+
+---
+
+##  Despliegue del modelo
+El modelo entrenado fue exportado como un **pipeline** (`.pkl`) e integrado en una API usando **FastAPI**.
+
+La predicción se realiza a través de una interfaz web donde el usuario ingresa los valores fisicoquímicos del agua y obtiene:
+- Clasificación (Potable / No Potable)
+- Probabilidad asociada a la predicción
+
+---
+
+##  Tecnologías utilizadas
+- Python
+- Scikit-learn
+- Random Forest
+- FastAPI
+- HTML & CSS
+- Joblib
+
+---
+
+##  Ejecución del proyecto
+
+Instalar dependencias:
+```bash
+pip install -r requirements.txt
